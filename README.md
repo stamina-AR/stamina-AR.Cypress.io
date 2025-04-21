@@ -1,0 +1,1 @@
+# stamina-AR.Cypress.io
